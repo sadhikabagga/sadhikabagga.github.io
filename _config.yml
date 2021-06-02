@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sadhika Bagga"
 title_separator          : "-"
 name                     : &name "Sadhika Bagga"
-description              : &description "PhD candidate at UT Austin"
+description              : &description "PhD candidate in Economics at UT Austin"
 url                      : "" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "" #"academicpages/academicpages.github.io"
@@ -65,9 +65,9 @@ analytics:
 
 # Site Author
 author:
+  name             : "Sadhika Bagga"
   avatar           : "profile.png"
-  bio              : "PhD candidate at UT Austin"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "PhD candidate in Economics at UT Austin"
   email            : "sbagga@utexas.edu"
  
 
