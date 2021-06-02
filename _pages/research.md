@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "Works in Progress"
 permalink: /research/
 author_profile: true
----
-
-### Works in Progress
+--- 
 
 * **Firm Market Power, Worker Mobility, and Wages in the US Labor Market** ([**Slides**](https://sadhikabagga.github.io/bagga_slides_public.pdf))
 
