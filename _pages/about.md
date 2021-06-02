@@ -17,7 +17,7 @@ My current research focuses on understanding the consequences of firm market pow
 
 For more information please contact me at: <sbagga@utexas.edu>
 
-Please view my **CV** [here](files/BaggaSadhika_CV_202009.pdf).
+Please view my **CV** [here](/files/BaggaSadhika_CV_202009.pdf).
 
 
 
