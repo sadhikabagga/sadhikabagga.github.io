@@ -1,3 +1,11 @@
+permalink	title	excerpt	author_profile	redirect_from
+/
+About Me
+About me
+true
+/about/
+/about.html
+
 Hello, and welcome to my website!
 
 I am a fourth year PhD student in Economics at the University of Texas at Austin. My primary areas of interest are macroeconomics and labor economics. 
