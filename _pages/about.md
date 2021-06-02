@@ -1,10 +1,13 @@
-permalink	title	excerpt	author_profile	redirect_from
-/
-About Me
-About me
-true
-/about/
-/about.html
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 
 Hello, and welcome to my website!
 
