@@ -21,6 +21,6 @@ Please view my **CV** [here](https://sadhikabagga.github.io/BaggaSadhika_CV_2020
 
 ## Works in Progress
 
-* **Firm Market Power, Worker Mobility and Wages in the US Labot Market** 
+* Firm Market Power, Worker Mobility and Wages in the US Labot Market 
 
-* **Incidence and Evolution of Nominal Wage Rigidity in the US**
+* Incidence and Evolution of Nominal Wage Rigidity in the US
