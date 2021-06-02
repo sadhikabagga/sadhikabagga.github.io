@@ -15,9 +15,10 @@ I am a fourth year PhD student in Economics at the University of Texas at Austin
 
 My current research focuses on understanding the consequences of firm market power on labor market outcomes in a search theoretic framework.
 
-For more information please contact me at: **<sbagga@utexas.edu>**
+For more information please contact me at: <sbagga@utexas.edu>
 
-Please view my **CV** [here](https://sadhikabagga.github.io/BaggaSadhika_CV_052021.pdf).
+Please view my **CV** [here](https://sadhikabagga.github.io/BaggaSadhika_CV_202009.pdf).
+
 
 
 
