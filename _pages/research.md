@@ -15,7 +15,7 @@ A recent body of literature has documented evidence of increasing employer marke
 ![](/images/FirmsPerEmployee.png){:height="300px" width="300px"} 
 
 
-* **Incidence and Evolution of Nominal Wage Rigidity in the US** (Preliminary draft available on request)
+* **Incidence and Evolution of Nominal Wage Rigidity in the US** _(Preliminary draft available on request)_
 
 
 
